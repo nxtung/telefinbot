@@ -13,7 +13,7 @@ Telefinbot is a Python-based application designed to automate tasks related to f
 To install the required dependencies, run the following command:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 To run the application, execute the following command:
 
 ```
-python src/main.py
+python3 src/main.py
 ```
 
 ## Contributing
